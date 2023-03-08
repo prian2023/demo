@@ -1,0 +1,161 @@
+.buzet {
+    width: 180px;
+    text-align: center;
+    margin-left: 235px;
+}
+
+#row {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+h6 {
+    text-align: center;
+}
+
+.pic1 {
+    width: 100%;
+}
+
+.cent {
+    position: absolute;
+    top: 20%;
+    left: 25%;
+    font-size: 60px;
+    color: white;
+    background-color: rgba(0,0,0,0.5);
+}
+
+hr {
+    border: 3px solid red;
+    border-radius: 5px;
+    width: 90px;
+    margin-right: 45%;
+}
+
+.help{
+    margin-left: 120px;
+    margin-top: 25px;
+    font-size: 20px;
+}
+.dev{
+    padding-left: 175px;
+}
+.just{
+    text-align: center;
+    font-size: 40px;
+}
+.look{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.len{
+    width: 40%;
+    margin-left: 10%;
+    border-radius: 20px;
+}
+.add{
+    float: right;
+    margin-right: 120px;
+}
+.this{
+    margin-left: 10%;
+}
+.are{
+    width: 20px;
+}
+.hid{
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.soon{
+    margin-left: 15px;
+}
+.book{
+    width: 40%;
+    border-radius: 10px;
+    float: right;
+    margin-right: 100px;
+    margin-top: 40px;
+}
+.added{
+    float: right;
+    margin-right: 50px;
+}
+.lends{
+    width: 40%;
+    margin-left: 10%;
+    border-radius: 20px;
+}
+.card{
+    margin-left: 80px;
+    margin-right: 80px;
+}
+.get{
+    text-align: center;
+    margin-top: 30px;
+}
+.mail{
+    display: flex;
+}
+.tab{
+    margin-left: 17%;
+    width: 30%;
+    height: 40px;
+}
+.pen{
+    width: 30%;
+    margin-left: 8%;
+    height: 40px;
+}
+.sub{
+    margin-left: 8%;
+    background-color: red;
+    color: white;
+    width: 110px;
+    border-radius: 10px;
+}
+.place{
+    display: flex;
+    margin-bottom: 50px;
+}
+.run{
+    width: 35%;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+#uber{
+    background-color: rgb(31, 28, 28);
+    color: white;
+    padding-left: 70px;
+}
+.take{
+    width: 40px;
+    margin-left: 10px;
+}
+.lear{
+    margin-top: 50px;
+    text-align: center;
+}
+.time{
+    margin-bottom: 20px;
+}
+.call{
+    width: 50px;
+    height: 40px;
+}
+.rule{
+    display: flex;
+    margin-top: 50px;
+}
+.loan{
+    margin-left: 20px;
+}
+.kick{
+    display: flex;
+}
+.end{
+    text-align: center;
+    margin-top: 15px;
+}

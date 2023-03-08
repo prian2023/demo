@@ -1,0 +1,338 @@
+.buzet {
+    width: 180px;
+    text-align: center;
+    margin-left: 235px;
+}
+
+#row {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+h6 {
+    text-align: center;
+}
+
+.pic1 {
+    width: 100%;
+}
+
+.cent {
+    position: absolute;
+    top: 60%;
+    left: 20%;
+    font-size: 60px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.help {
+    margin-left: 120px;
+    margin-top: 25px;
+    font-size: 20px;
+}
+
+.h3 {
+    margin-left: 40px;
+}
+
+.dev {
+    padding-left: 212px;
+}
+
+.how {
+    border-radius: 30px;
+    background-color: red;
+    color: white;
+    margin-left: 120px;
+    height: 50px;
+}
+
+#car {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: -240px;
+    border-radius: 15px;
+    box-shadow: 1px 8px 3px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.helo {
+    margin-top: 30px;
+    text-align: center;
+}
+
+.colo {
+    color: brown;
+    font-size: 20px;
+}
+
+.cart {
+    width: 70px;
+    margin-left: 140px;
+    margin-top: 20px;
+}
+
+.mation {
+    text-align: center;
+}
+
+.case {
+    display: flex;
+}
+
+#mov {
+    margin-top: 40px;
+}
+
+.hower {
+    border-radius: 30px;
+    background-color: red;
+    color: white;
+    margin-left: 40%;
+    height: 50px;
+    width: 20%;
+    margin-bottom: 60px;
+}
+
+.true {
+    position: absolute;
+    top: 300%;
+    left: 17%;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.block {
+    color: brown;
+    text-align: center;
+}
+
+.cout {
+    color: white;
+    font-size: 50px;
+}
+
+.come {
+    color: white;
+}
+
+#mover {
+    margin-top: -70px;
+}
+
+.shift {
+    margin-bottom: 120px;
+}
+
+.use {
+    margin-left: 130px;
+    border-radius: 25px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.term {
+    position: absolute;
+    top: 420%;
+    left: 15%;
+    display: flex;
+}
+
+.face {
+    color: white;
+}
+
+.dom {
+    color: white;
+    height: 50px;
+    background-color: rgb(199, 8, 8);
+    border-radius: 25px;
+    margin-left: 150px;
+    margin-top: 50px;
+    width: 250px;
+}
+
+.this {
+    margin-left: 10%;
+    margin-bottom: 100px;
+}
+
+.book {
+    width: 40%;
+    border-radius: 80px 10px;
+    float: right;
+    margin-right: 100px;
+    margin-top: 40px;
+}
+
+.are {
+    width: 20px;
+}
+
+.hid {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.soon {
+    margin-left: 15px;
+}
+
+.into {
+    margin-top: 20px;
+}
+
+.space {
+    color: white;
+    height: 50px;
+    background-color: rgb(199, 8, 8);
+    border-radius: 25px;
+    margin-left: 150px;
+    width: 250px;
+}
+
+#happy {
+    width: 200px;
+    height: 150px;
+    margin-left: 180px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.clie {
+    position: absolute;
+    top: 28%;
+    left: 28%;
+    text-align: center;
+}
+.num{
+    color: red;
+}
+.lock{
+    display: flex;
+}
+#hap{
+    width: 200px;
+    height: 150px;
+    margin-left: 70px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.locker{
+    display: flex;
+    margin-top: 55px;
+}
+.achi{
+    margin-left: 130px;
+    margin-top: -160px;
+}
+.seed{
+    margin-bottom: 15px;
+}
+.tech{
+    color: rgb(194, 47, 47);
+    font-size: 20px;
+}
+.with{
+    margin-top: 90px;
+    text-align: center;
+    margin-bottom: 90px;
+}
+.jaipur{
+    margin-left: 220px;
+}
+.poor{
+    margin-left: 140px;
+}
+.good{
+    margin-bottom: 90px;
+}
+.do{
+    color: rgb(207, 48, 48);
+}
+.eco{
+    margin-left: 140px;
+    margin-top: 150px;
+}
+#add{
+    width: 500px;
+    height: 500px;
+    margin-left: 70px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.first{
+    display: flex;
+    margin-bottom: 90px;
+}
+.in{
+    margin-left: 100px;
+    margin-top: 40px;
+    width: 250px;
+}
+.input{
+    margin-left: 100px;
+    width: 250px;
+    margin-top: 20px;
+}
+.bum{
+    margin-left: 100px;
+    margin-top: 20px;
+    width: 100px;
+    height: 40px;
+    background-color: rgb(214, 39, 39);
+    color: white;
+    border-radius: 15px;
+}
+#uber{
+    background-color: rgb(31, 28, 28);
+    color: white;
+    padding-left: 70px;
+}
+.run{
+    width: 35%;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+.lear{
+    margin-top: 50px;
+    text-align: center;
+}
+.rule{
+    display: flex;
+    margin-top: 50px;
+}
+.call{
+    width: 50px;
+    height: 40px;
+}
+.loan{
+    margin-left: 20px;
+}
+.kick{
+    display: flex;
+}
+.end{
+    text-align: center;
+    margin-top: 15px;
+}
+.take{
+    width: 40px;
+    margin-left: 10px;
+}
+.time{
+    margin-bottom: 20px;
+}
+#left{
+    width: 350px; 
+    margin-left: 50px; 
+    border-radius: 15px; 
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#right{
+    width: 350px; 
+    margin-left: 70px; 
+    border-radius: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
